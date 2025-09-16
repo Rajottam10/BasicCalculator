@@ -18,3 +18,4 @@ spec:
           image: 172.26.186.152:8081/library/basic-calculator:IMAGE_TAG_TO_REPLACE
           ports:
             - containerPort: 8080
+
