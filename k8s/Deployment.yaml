@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: basic-calculator
-          image: harbor.your-domain.com/rajottam/basic-calculator:6
+          image: harbor.your-domain.com/rajottam/basic-calculator:IMAGE_TAG_TO_REPLACE
           ports:
             - containerPort: 8080
