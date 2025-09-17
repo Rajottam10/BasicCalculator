@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: basic-calculator
-          image: localhost:8081/library/basic-calculator:16
+          image: localhost:8081/library/basic-calculator:17
           ports:
             - containerPort: 8080
 
