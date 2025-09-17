@@ -18,3 +18,4 @@ spec:
           image: rajottam10/basic-calculator:19
           ports:
             - containerPort: 8080
+
