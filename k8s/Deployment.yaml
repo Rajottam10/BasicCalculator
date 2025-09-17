@@ -18,5 +18,3 @@ spec:
           image: host.docker.internal:8081/library/basic-calculator:latest
           ports:
             - containerPort: 8080
-
-
