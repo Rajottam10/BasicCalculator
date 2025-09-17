@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: basic-calculator
-          image: host.docker.internal:8081/library/basic-calculator:latest
+          image: IMAGE_TAG_TO_REPLACE
           ports:
             - containerPort: 8080
