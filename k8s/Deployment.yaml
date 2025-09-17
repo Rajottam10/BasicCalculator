@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: basic-calculator
-          image: IMAGE_TAG_TO_REPLACE
+          image: rajottam10/basic-calculator:19
           ports:
             - containerPort: 8080
